@@ -1,3 +1,10 @@
+/*
+ * Tutorial 7 Signals and Data Structures for SOFE 3950: Operating Systems
+ *
+ * Copyright (C) 2024, <Mostafa Abedi, Nathaniel Manoj, Calvin Reveredo>
+ * All rights reserved.
+ *
+*/
 #include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h> #include <stdbool.h>
